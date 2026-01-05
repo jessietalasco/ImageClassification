@@ -1,6 +1,6 @@
 # ImageClassification
 
-##Objective
+## Objective
 Python based classification of handwritten letters.
 
 ## Techniques
